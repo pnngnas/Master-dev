@@ -1,0 +1,48 @@
+/* repon cho mobile */
+@media (max-width: 740px) {
+    .s-col-full, .inputfull { width: 100%;}
+    #heading {overflow:hidden ;}
+    #heading #search { display: none;}
+    #heading>#nav>li { display: block;}
+    #heading>#nav>li:first-child{display: inline-block; }
+    #heading .mobilemenu {display: block;}
+    #heading #nav { display: block;}
+    #nav .subnav {position: initial;background: black; padding:0 17px ; }
+    #nav .subnav li a { color: white;}
+    #content .member {width: 100%; }
+    #content .member .memberpic {width: 60%; }
+    #content .member .name { margin: 32px 0 16px;  }
+    .placelist .placeitem {width: 100% ;margin-bottom: 28px; }
+    .contactinfo {margin-bottom: 32px;}
+    .formcontent .formcontrol { padding: 15px 12px; font-size: 17px;}
+    .formcontent .submitform,.box .button { width: 100%; font-size: 17px; padding:19px 20px ;}
+    
+}
+
+@media (max-width: 1025px) {.socialcontact a {
+    font-size: 30px;padding: 0 4px;}
+    #footer .copyright {
+        font-size: 24px;  margin: 21px 0;}
+    
+      
+    }
+
+@media (min-width:741px ) and (max-width: 1025px) {
+    .box .button {width: 100%;padding: 15.5px 16px; }
+    .formcontent .formcontrol {
+        padding: 17px 12px; font-size: 17px;}
+      .formcontent .submitform {padding: 13px 29px;font-size: 21px;}  
+      .contactinfo {font-size: 21px};}
+
+
+ 
+    
+    
+
+
+
+
+
+
+
+/* repon cho mobile */
