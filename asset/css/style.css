@@ -51,7 +51,7 @@ html{scroll-behavior: smooth; }
 #heading #search .ti-search {color: white; line-height: 46px; }
 
 #slide { margin-top: 46px; position: relative;
-   padding-top:50% ;  background:url(/asset/img/newyork.jpg) no-repeat top center /cover ;
+   padding-top:50% ;  background:url(/Master-dev/asset/img/newyork.jpg) no-repeat top center /cover ;
 }
 
 #slide .text {
